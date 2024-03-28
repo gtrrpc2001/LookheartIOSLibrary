@@ -3,8 +3,8 @@ import Alamofire
 
 public class NetworkManager {
     
-    private let baseURL = "http://121.152.22.85:40081" // TEST
-//    private let baseURL = "http://121.152.22.85:40080" // REAL
+    private let baseURL = ""
+
     
     public static let shared = NetworkManager()
 
